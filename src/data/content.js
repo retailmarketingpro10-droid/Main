@@ -30,7 +30,7 @@ export const products = [
     description: 'The ultimate Point of Sale solution for single or multi-location businesses. Process transactions offline and sync when you\'re ready.',
     icon: Store,
     image: 'https://images.unsplash.com/photo-1752869290097-ae5b49f5ab19?ixlib=rb-4.1.0&auto=format&fit=crop&w=800&q=80',
-    link: 'https://rmp.retailmarketingpro.in/',
+    link: 'https://rmp.retailmarketingpro.vercel.app/',
     features: [
       'Zero processing fees on transactions',
       'Offline Cash & UPI Barcode support',
@@ -44,7 +44,7 @@ export const products = [
     description: 'Track craftsmen, inventory, and employees in real-time. Perfect for workshops and manufacturing retail.',
     icon: Hammer,
     image: '/assets/gold.jpg',
-    link: 'https://gold.retailmarketingpro.in/',
+    link: 'https://gold.retailmarketingpro.vercel.app/',
     features: [
       'Multi-Company/Location Dashboard',
       'Real-time stock tracking & alerts',
@@ -58,7 +58,7 @@ export const products = [
     description: 'Seamlessly migrate legacy data and manage inventory with a Tally-style interface designed for accountants.',
     icon: FileSpreadsheet,
     image: 'https://images.unsplash.com/photo-1762427907123-c7ab022a5de7?ixlib=rb-4.1.0&auto=format&fit=crop&w=800&q=80',
-    link: 'https://inventory.retailmarketingpro.in/',
+    link: 'https://inventory.retailmarketingpro.vercel.app/',
     features: [
       'Tally-style data interface',
       'GST-calculated exports',
