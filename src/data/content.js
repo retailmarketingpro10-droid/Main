@@ -58,7 +58,7 @@ export const products = [
     description: 'Seamlessly migrate legacy data and manage inventory with a Tally-style interface designed for accountants.',
     icon: FileSpreadsheet,
     image: 'https://images.unsplash.com/photo-1762427907123-c7ab022a5de7?ixlib=rb-4.1.0&auto=format&fit=crop&w=800&q=80',
-    link: 'https://inventory-retailmarketingpro.vercel.app/',
+    link: 'https://inventory.retailmarketingpro.in/',
     features: [
       'Tally-style data interface',
       'GST-calculated exports',
